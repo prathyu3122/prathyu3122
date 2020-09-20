@@ -12,6 +12,6 @@ My name is ***Prathyusha Rejeti***. I am currently pursuing my Bachelor of Techn
 - ⚡ Fun fact: I love myself sometimes.
 
 ### Hobbies:
-* :musical_note: Learning Carnatic Music :notes:
-* :books: Reading mythological books & novels :notebook_with_decorative_cover:
-* :flute: Love to play flute & learning flute
+* :notes: Learning Carnatic Music.
+* :books: Reading mythological books & novels.
+* :musical_note: Love to play flute & learning flute.
