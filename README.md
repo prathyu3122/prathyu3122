@@ -10,3 +10,8 @@ My name is ***Prathyusha Rejeti***. I am currently pursuing my Bachelor of Techn
 - 📫 How to reach me: You can reach me via my **e-mail: prathyusharejeti@gmail.com** 
 - 😄 Pronouns: You can choose one
 - ⚡ Fun fact: I love myself sometimes.
+
+### Hobbies:
+* :musical_note: Learning Carnatic Music :notes:
+* :books: Reading mythological books & novels :notebook_with_decorative_cover:
+* :flute: Love to play flute & learning flute
