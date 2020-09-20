@@ -1,8 +1,8 @@
 # Prathyusha Rejeti
 
-[LinkedIn](https://www.linkedin.com/in/prathyusha-rejeti-ba4331175/)
 [Instagram](https://www.instagram.com/phoenix__writes/)
-[GMail](prathyusharejeti@gmail.com)
+[![Linked In link](C:\Users\prath\Downloads\download.png)](https://www.linkedin.com/in/prathyusha-rejeti-ba4331175/)
+
 
 Here is my self intro... :blush: :arrow_heading_down:
 ## Self Introduction:
