@@ -1,8 +1,7 @@
 # Prathyusha Rejeti
 
-[Instagram](https://www.instagram.com/phoenix__writes/)
-[![Linked In link](C:\Users\prath\Downloads\download.png)](https://www.linkedin.com/in/prathyusha-rejeti-ba4331175/)
-
+* [LinkedIn](https://www.linkedin.com/in/prathyusha-rejeti-ba4331175/)
+* [Instagram](https://www.instagram.com/phoenix__writes/)
 
 Here is my self intro... :blush: :arrow_heading_down:
 ## Self Introduction:
