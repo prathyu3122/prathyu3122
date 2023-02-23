@@ -8,8 +8,8 @@ Here is my self intro... :blush: :arrow_heading_down:
 My name is ***Prathyusha Rejeti***. I am currently a Bachelor of Technology graduate in Computer Science background at Rajiv Gandhi University of Knowledge Technologies, Srikakulam. I am too exicted to work on Web development or Machine Learning or Data Science Projects. I am always very curious and excited to learn and explore through different creative ideas regarding Machine Learning and Web Development using React JS. 
 
 - 🔭 I’m currently working on a React JS Projects.
-- 🌱 I’m currently learning **Machine Learning techniques**.
-- 👯 I’m looking to collaborate on **AI** or **ML projects**
+- 🌱 I’m currently learning **React techniques**.
+- 👯 I’m looking to collaborate on **AI** or **ML projects** or **React Projects**
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: You can reach me via my :e-mail:**prathyusharejeti@gmail.com** 
 - 😄 Pronouns: You can choose one
